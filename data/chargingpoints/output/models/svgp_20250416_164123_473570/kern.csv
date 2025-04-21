@@ -1,0 +1,12 @@
+,class,prior,transform,trainable,shape,fixed_shape,value
+svgp_20250416_164123_473570/kern/W,Parameter,None,(none),False,"(1, 5)",True,[[1. 1. 1. 1. 1.]]
+svgp_20250416_164123_473570/kern/kernels/0/distmax,Parameter,None,"[0.0, 1.5]",True,(),True,0.4818541522372496
+svgp_20250416_164123_473570/kern/kernels/0/effects,Parameter,None,"[0.01, 1.0]",True,(),True,0.275513878666023
+svgp_20250416_164123_473570/kern/kernels/1/distmax,Parameter,None,"[0.0, 1.5]",True,(),True,0.4142086755158354
+svgp_20250416_164123_473570/kern/kernels/1/effects,Parameter,None,"[0.01, 1.0]",True,(),True,0.2840511033515976
+svgp_20250416_164123_473570/kern/kernels/2/distmax,Parameter,None,"[0.0, 1.5]",True,(),True,0.4541418885139355
+svgp_20250416_164123_473570/kern/kernels/2/effects,Parameter,None,"[0.01, 1.0]",True,(),True,0.37773553856758124
+svgp_20250416_164123_473570/kern/kernels/3/distmax,Parameter,None,"[0.0, 1.5]",True,(),True,0.2937996994100054
+svgp_20250416_164123_473570/kern/kernels/3/effects,Parameter,None,"[0.01, 1.0]",True,(),True,0.22794500025114392
+svgp_20250416_164123_473570/kern/kernels/4/lengthscales,Parameter,None,+ve,True,(),True,49.51816524613957
+svgp_20250416_164123_473570/kern/kernels/4/variance,Parameter,None,+ve,True,(),True,0.7469535406582531

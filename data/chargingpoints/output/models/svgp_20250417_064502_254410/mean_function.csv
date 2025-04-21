@@ -1,0 +1,6 @@
+,class,prior,transform,trainable,shape,fixed_shape,value
+svgp_20250417_064502_254410/mean_function/A,Parameter,None,(none),True,"(5, 1)",True,"[[0.30006735]
+ [0.02914695]
+ [0.05047323]
+ [0.09472087]
+ [0.06747834]]"
